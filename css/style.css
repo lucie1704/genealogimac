@@ -1,0 +1,39 @@
+/*========== GENERALS ==========*/
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*======== STUDENT INFOS ========*/
+#studentInfos
+{
+    display:flex;
+    flex-direction:column;
+}
+
+.relativesButton
+{
+    width: fit-content;
+}
+
+td{
+    width: 100px;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:visited { 
+    text-decoration: none; 
+    color: black; 
+   }
+
+button{
+    margin:5px;
+}
+
+a:hover { 
+    color: royalblue; 
+   }
