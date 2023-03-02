@@ -6,9 +6,9 @@ genealogIMAC is about the mentor-mentee relashionship between students from diff
 All new coming students getting a mentor and their mentor themselves having their own mentor we decided to work around this theme to try and find every student's family tree throughout the different generations.  
 The database used here is made of random generated names in order to share it publicly.  
 
-# see outcome here https://perso-etudiant.u-pem.fr/~lucie.godard
+### see outcome here https://perso-etudiant.u-pem.fr/~lucie.godard
 
-# how to use the given database with this project 
+### how to use the given database with this project 
 
 The sql file is included in the folder as 'genealogimac.sql', import it in your sql environnement (I personnaly used phpMyAdmin).  
 The file 'php/connection.php' should be edited with your own database username and password to access the imported data.  
