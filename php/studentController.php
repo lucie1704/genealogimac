@@ -22,7 +22,6 @@
         $promotionYear = $form['year']; 
 
         addStudent($firstName, $lastName, $birthDate, $promotionYear);
-        // return $promotionYear;        
     }
 
     function deleteStudentInDatabase($studentId) {
